@@ -1,5 +1,49 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
+
+.card{
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    border: 2px;
+    border-color: black;
+    border-radius: 25px;
+    margin: auto; 
+    margin-top: 20px;
+    display: flex;
+    
+}
+#cardGenerator {
+    margin: auto;
+    display: flex ;
+    margin-top: 15px;
+}
+#upSideSymbol{
+
+    float: left;
+    font-size: 30px;
+    margin-left: 15px;
+
+}
+#cardNumber{
+    text-align: center;
+    font-size: 90px;
+}
+#downSideSymbol{
+   
+   
+    font-size: 30px;
+    transform: rotate(-180deg);
+    margin-right: 15px;
+    margin-top: 105px;
+}
+#cardNumber{
+    text-align: center;
+    font-size: 120px;
+    margin: auto;
+    display: flex;
+}
+
 body{
-    background: white;
+    background: green;
 }
