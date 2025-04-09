@@ -32,15 +32,16 @@
     font-size: 60px;
     transform: rotate(-180deg);
     margin-right: 15px;
-    margin-top: 20px;
+    
 }
 #cardNumber{
   
-    font-size: 120px;
+    font-size: 130px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 18px;
+    vertical-align: center;
+    margin-bottom: 25px;
 }
 
 body{
