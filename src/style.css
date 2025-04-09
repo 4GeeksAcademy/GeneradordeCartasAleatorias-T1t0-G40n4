@@ -25,23 +25,22 @@
     margin-left: 15px;
 
 }
-#cardNumber{
-    text-align: center;
-    font-size: 90px;
-}
+
 #downSideSymbol{
    
    
     font-size: 30px;
     transform: rotate(-180deg);
     margin-right: 15px;
-    margin-top: 105px;
+    margin-top: 60px;
 }
 #cardNumber{
-    text-align: center;
+  
     font-size: 120px;
-    margin: auto;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
 }
 
 body{
